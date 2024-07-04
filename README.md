@@ -3,4 +3,4 @@
 - ⏰ i am currently lerning coding bei DCI
 - my hobbi's are swimming, coding and sports
 ### funfact? 
-- in childhod i did hate computers, and i never though i ll work inside 🤔
+- in childhod i did hate computers, and i never though i ll work on them 🤔
