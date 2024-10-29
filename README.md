@@ -1,10 +1,9 @@
-# What are you looking for? 😂
-- 🖐️ my Name is Norman,
-- ⏰ I am currently learning to code by DCI
-- my hobbies are swimming, coding, and sports
+# WIllkommen
+💻 **Web Developer in Progress**  
+Fokus auf moderne Webentwicklung und interaktives Design mit HTML, CSS und JavaScript. Ich setze auf responsive und nutzerfreundliche Lösungen und baue meine Kenntnisse im MERN-Stack stetig aus, um Projekte auf das nächste Level zu heben.
 
-- and remember: scientia sit potentia!
-- so never stop to learn 📖
-  
-### funfact? 
-- in childhood, I hated computers, and I never thought I'd work on them 🤔
+🚀 **Verfügbar für freiberufliche Zusammenarbeit**  
+Interesse an neuen Projekten zur Erweiterung meines Portfolios. Ich freue mich über Anfragen zu individuellen Weblösungen oder zur Unterstützung bei der Portfoliogestaltung.
+
+💬 **Schreib mir**  
+Wenn du innovative und maßgeschneiderte Weblösungen suchst – ich bin bereit, deinen digitalen Auftritt zu stärken!
